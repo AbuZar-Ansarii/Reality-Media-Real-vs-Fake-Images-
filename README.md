@@ -46,6 +46,6 @@ image-feed-app/
 ├── requirements.txt
 └── README.md
 
-git clone https://github.com/your-username/real-vs-fake-image-feed.git
+git clone https://github.com/AbuZar-Ansarii/Reality-Media-Real-vs-Fake-Images-.git
 cd real-vs-fake-image-feed
 
